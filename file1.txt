@@ -1,0 +1,2 @@
+"to jest commit 1 na feature-rebase" 
+"to jest 2 commit na feature-rebase" 
