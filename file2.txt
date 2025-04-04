@@ -1,1 +1,2 @@
 "to jest 1 commit na main"
+"to jest commit 2 na main" 
